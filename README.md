@@ -9,3 +9,7 @@ Project structure:<br>
   modeltest           (this repository)
      |--- common      (the 'common' repository)
 </pre>
+
+
+### License
+GNU LGPL v3.0
